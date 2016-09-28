@@ -7,7 +7,6 @@ import com.tcf.trainings.jenkins.timetracker.core.dao.TimeEntry;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 @Configuration
 @ComponentScan("com.tcf.trainings.jenkins.timetracker.core")
